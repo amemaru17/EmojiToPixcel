@@ -1,4 +1,4 @@
-# このコードについて
+![image](https://github.com/user-attachments/assets/dd786bf7-7d41-436d-b7ff-878efe23f5c4)# このコードについて
 
 入力された絵文字を白黒のピクセルアートにするツールになります。  
 使用しているライブラリの関係上、MSYS2を使用している為、  
@@ -40,5 +40,6 @@ pacman -S mingw-w64-x86_64-python3-gobject mingw-w64-x86_64-cairo mingw-w64-x86_
 
 入力したらそのままエンターを押してください。
 Pythonのコードがあるフォルダ直下に画像ファイルが出力されます。
+![image](https://github.com/user-attachments/assets/76b18a2c-5ea1-406d-8767-d671356f7381)
 
 
