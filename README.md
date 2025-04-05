@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dd786bf7-7d41-436d-b7ff-878efe23f5c4)# このコードについて
+# このコードについて
 
 入力された絵文字を白黒のピクセルアートにするツールになります。  
 使用しているライブラリの関係上、MSYS2を使用している為、  
